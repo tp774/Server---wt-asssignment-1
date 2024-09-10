@@ -7,6 +7,6 @@
         <p>
             I did my homework!
         </p>
-        <img src="Lab1.jpg">
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnau.edu%2Fhow-to-apply%2F&psig=AOvVaw2aEk2nC305obFowgWrwSNB&ust=1726028141361000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICH64bCt4gDFQAAAAAdAAAAABAJ">
     </body>
 </html>
